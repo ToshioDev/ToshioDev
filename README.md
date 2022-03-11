@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToshioDev
 - 👀 I’m interested in Java SE development
 - 🌱 I’m currently learning Full Stack web development
-- 📫 How to reach me @ToshioDev on all social networks
+- 📫 How to reach me @toshio.dev on all social networks
 
 <!---
 ToshioDev/ToshioDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
